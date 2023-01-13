@@ -23,6 +23,8 @@ Each of the team members prepared a minimum of 5 web pages for the project as sh
 | **Name** | **Contribution** |
 |----------|------------------|
 | Nur Athisha Binti Mohd Zariman|- Pages: Attractions (Penang, KL, Perak, Terengganu, Sabah), Home <br><br> - Subscribe Form <br><br> - Web elements: <br>  + Added 3 attractions in each page with appropriate styling|
+| Nur Huda binti Eshaifol Azam (2111994)|- Pages: Eateries (Penang, KL, Perak, Terengganu, Sabah) <br> - Header and footer design <br><br> - Web elements: <br> + Header and footer design with appropriate styling <br> + Navigation bar with drop-down menus <br> + JavaScript elements for slideshow on each page (3 pictures for each eatery) <br> + jQuery element to toggle between showing and hiding social media buttons to view more details about the place <br> + Google Maps API to embed a map that shows the location of the eateries and user can interact with the map
+
 
 
 
