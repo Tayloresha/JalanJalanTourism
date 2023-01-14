@@ -31,14 +31,18 @@ Each of the team members prepared a minimum of 5 web pages for the project as sh
 <br><br>
 | **Web Elements** | **Name** | **Use of third party resources (if any)** | **Modifications (if any)** |
 |------------------|----------|-------------------------------------------|----------------------------|
-| Icons| Nur Huda binti Eshaifol Azam (2111994)<br><br> Nur Athisha Binti Mohd Zariman (2118676) <br><br> Nur Zahidah Natasha Binti Mat Zam (2115226)| Font Awesome 4 link in all the Eateries,Attractions and Accomodations pages and header footer to display the appropriate icons<br><br> Font Awesome 4 link in all the Attractions pages to display the appropriate icons | Colour of the icons were modified|
+| Icons| Nur Huda binti Eshaifol Azam (2111994)<br><br> Nur Athisha Binti Mohd Zariman (2118676)| Font Awesome 4 link in all the Eateries  pages and header footer to display the appropriate icons<br><br> Font Awesome 4 link in all the Attractions pages to display the appropriate icons | Colour of the icons were modified|
+| Icons| Nur Zahidah Natasha Binti Mat Zam (2115226) <br><br> | Material icons link in all the accomodations page to display the appropriate icons | Colour of the icons were modified |
 | Maps| Nur Huda binti Eshaifol Azam (2111994)<br><br> Nur Athisha Binti Mohd Zariman (2118676) <br><br> Nur Zahidah Natasha Binti Mat Zam (2115226) | Load jQuery library to display Google Maps| All maps were modified to a custom size to fit the page|
 |Video|Nur Athisha Binti Mohd Zariman (2118676)|Insert Youtube embedded player|Size of embedded video was modified to a custom size to fit the page|
+| Availability | Nur Zahidah Natasha Binti Mat Zam (2115226) <br><br> | Link the check availability button in accomodations to booking webpage to check the availibility| give the specific link |
 
 <br><br>
 **5. References**
 <br><br>
 &emsp; Font Awesome. Font Awesome 4.7.0. Retrieved 5 January 2023 from <br> &emsp; https://fontawesome.com/v4/icons/
+&emsp; material Icons Retrieve 7 January 2023 from <br> &emsp; https://fonts.googleapis.com/icon?family=Material+Icons
+&emsp; Booking.com Retrieved 7 January 2023 from <br> &emsp; https://www.booking.com/index
 
 
 
