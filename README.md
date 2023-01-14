@@ -41,7 +41,9 @@ Each of the team members prepared a minimum of 5 web pages for the project as sh
 **5. References**
 <br><br>
 &emsp; Font Awesome. Font Awesome 4.7.0. Retrieved 5 January 2023 from <br> &emsp; https://fontawesome.com/v4/icons/
+<br><br>
 &emsp; material Icons Retrieve 7 January 2023 from <br> &emsp; https://fonts.googleapis.com/icon?family=Material+Icons
+<br><br>
 &emsp; Booking.com Retrieved 7 January 2023 from <br> &emsp; https://www.booking.com/index
 
 
